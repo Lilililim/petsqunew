@@ -1,0 +1,49 @@
+.navbar-collapse .nav-pills .nav-link:hover,
+.navbar-collapse .nav-pills .nav-link:focus {
+    background: #EA9999;
+    border-radius: 10px;
+}
+a.nav-link.active{
+    background: #EA9999;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 50px;
+}
+ul{
+    margin-left: -200px;
+}
+.btn.btn-primary.btn-login{
+    background: #ff7404 !important;
+}
+.dashboard-utama{
+    background-image: url(pink-cat-hat.jpg);
+    background-attachment: fixed;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.petsqu-text{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.form-square{
+    padding:0 250px;
+
+}
+.img-responsive{
+    width: auto;
+    height: 120px;
+    align-items: center;
+}
+.img-responsive.me-3{
+    width: auto;
+    height: 40px;
+}
+.navbar.navbar-expand-lg.bg-light{
+    background: #ff7404 !important;
+    border-bottom: 2px solid black;
+}
